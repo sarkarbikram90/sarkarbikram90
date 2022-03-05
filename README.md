@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bikram
 - 👀 I’m interested in DevOps and Golang. 
 - 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on to learn from others and contribute to the best of my ability.
+- 💞️ I would love to collaborate to learn from others and contribute to the best of my ability.
 - 📫 How to reach me sarkarbikram90@gmail.com
 
 <!---
