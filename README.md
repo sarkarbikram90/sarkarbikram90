@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Bikram
-- 👀 I’m interested in DevOps and Golang. 
-- 🌱 I’m currently learning Golang
-- 💞️ I would love to collaborate to learn from others and contribute to the best of my ability.
+- 👋 Hi, I’m Bikram, I work on Autosys job scheduling tool, Infrastructure monitoring, Incident Management/Change Management.
+- 👀 I’m currently learning Go(lang)
+- 💞️ I am open to learn new tech stack/collaborate and contribute to the best of my ability.
 - 📫 How to reach me ? sarkarbikram90@gmail.com
 
 <!---
