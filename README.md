@@ -2,6 +2,7 @@
 - 👀 I’m currently learning DevOps, AWS, GCP, Terraform, Linux & Go(lang)
 - 💞️ I am open to learn new tech stack/collaborate and contribute to the best of my ability.
 - 📫 How to reach me ? sarkarbikram90@gmail.com
+- blogpost - https://bikram04.hashnode.dev/
 
 <!---
 sarkarbikram90/sarkarbikram90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
