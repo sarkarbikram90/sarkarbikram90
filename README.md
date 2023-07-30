@@ -3,6 +3,7 @@
 - 💞️ I am open to learn new tech stack/collaborate and contribute to the best of my ability.
 - 📫 How to reach me ? sarkarbikram90@gmail.com
 - blogpost - https://bikram04.hashnode.dev/
+- blogpost - https://medium.com/@sarkarbikram90
 
 <!---
 sarkarbikram90/sarkarbikram90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
