@@ -1,12 +1,9 @@
-- 👋 Hi, I’m Bikram. I have experience in IT operations, applications, and infrastructure monitoring to ensure the reliability, and performance of critical systems and services. As part of my day-to-day job role, I monitor various on-prem and cloud resources, such as Linux/Windows clusters, DB clusters, network interfaces, switches, routers, autosys batch jobs, etc using tools such as Network Node Manager, LogicMonitor, ESP Monitor, Grafana. I monitor Go, Java, and Kafka-based applications as well and report any anomalies to the Dev team. Additionally, I draft technical documentation, and SOPs, attend daily, weekly, and monthly client calls to deliver reports, and coordinate with onsite teams to refine processes. I am passionate about delivering high-quality solutions and improving customer satisfaction. To augment my proficiency, I've proactively upskilled myself in a range of cutting-edge technologies, including Google Cloud, Docker, Kubernetes, Jenkins, and Golang etc..
-- 👀 I’m currently learning to write memory safe code in Rust and trying to grasp key concepts such as ownership, borrowing and lifetimes.
-- 💞️ I am very much open and excited to learn new tech stack and collaborate and contribute.
-- 📫 How to reach me? sarkarbikram90@gmail.com
-- blogpost - https://bikram04.hashnode.dev
-- blogpost - https://medium.com/@sarkarbikram90
-- LinkedIn - https://www.linkedin.com/in/bikramsarkar
+I am a passionate Infrastructure and Automation Engineer with deep expertise in DevOps practices, Infrastructure as Code (IaC) using Terraform, and hands-on development experience in Python and Go. My professional journey has equipped me with robust skills in building, scaling, and automating cloud-native environments, implementing infra watchdog solutions, and working on complex payment systems, including UPI payments.
 
-<!---
-sarkarbikram90/sarkarbikram90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software engineering always fascinates me, and I am driven by an insatiable curiosity to explore new technologies. Lately, I have been focusing on Machine Learning—learning how to develop ML models and bring them to production. I am particularly keen on the intersection of AI/ML with large-scale infrastructure and automation.
+
+I regularly share my insights and learnings on my blog: StackTrace @ Hashnode, where I write about everything from cutting-edge DevOps practices to the latest in AI and ML.
+
+I am always eager to connect with other passionate engineers and tech enthusiasts. Let’s keep learning and building the future of software together!
+
+Let’s connect 
