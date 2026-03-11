@@ -90,13 +90,23 @@ night_mode:
 
 ---
 
-## `ls ./currently_building`
+## `ls ./pinned_repos`
 
+<!-- REPOS_START -->
 ```
-📦 Synthetic-Data-Generator    → generating realistic synthetic datasets
-📦 Churn_Predict               → ML model for customer churn prediction
-📦 Shakespeare-Language-Model  → tiny LLM trained on Shakespeare (CPU only)
+📦 loading...
 ```
+<!-- REPOS_END -->
+
+---
+
+## `tail -f activity.log`
+
+<!-- ACTIVITY_START -->
+| | Activity | Date |
+|---|---|---|
+| — | Run the workflow to populate | — |
+<!-- ACTIVITY_END -->
 
 ---
 
@@ -114,5 +124,10 @@ night_mode:
 ---
 
 <div align="center">
+
+<!-- TIMESTAMP_START -->
+*Last updated: `never`*
+<!-- TIMESTAMP_END -->
+
 <sub>⚡ built with curiosity · powered by coffee · deployed to production</sub>
 </div>
