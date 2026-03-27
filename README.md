@@ -100,7 +100,7 @@ night_mode:
    └─ Customer Churn Prediction (MLflow + Streamlit)
 📦 ai-incident-investigator            ★ 0  🍴 0  [JavaScript]
    └─ no description
-📦 hitl-incidents-triage-mvp           ★ 0  🍴 0  [JavaScript]
+📦 hitl-incidents-triage-mvp           ★ 1  🍴 0  [JavaScript]
    └─ no description
 📦 Shakespeare-like-Language-Model     ★ 0  🍴 0  [Python]
    └─ A tiny model that produces Shakespeare-like grammar and style
@@ -116,11 +116,11 @@ night_mode:
 <!-- ACTIVITY_START -->
 | | Activity | Date |
 |---|---|---|
+| ⭐ | Starred `hitl-incidents-triage-mvp` | `2026-03-26` |
 | 📦 | Pushed to `HITL-POC` | `2026-03-25` |
 | ⭐ | Starred `HITL-POC` | `2026-03-24` |
 | 🌿 | Created `main` | `2026-03-24` |
 | 📦 | Pushed to `DIP-Data-Intelligence-Platform-` | `2026-03-24` |
-| 🌿 | Created `main` | `2026-03-24` |
 <!-- ACTIVITY_END -->
 
 ---
@@ -141,7 +141,7 @@ night_mode:
 <div align="center">
 
 <!-- TIMESTAMP_START -->
-*Last updated: `2026-03-26 02:29 UTC`*
+*Last updated: `2026-03-27 02:31 UTC`*
 <!-- TIMESTAMP_END -->
 
 <sub>⚡ built with curiosity · powered by coffee · deployed to production</sub>
