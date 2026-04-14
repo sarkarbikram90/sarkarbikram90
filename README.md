@@ -1,11 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:0066ff&height=160&section=header&text=Bikram%20Sarkar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=IT%20Operations%20%C2%B7%20Infrastructure%20%C2%B7%20ML%20Engineering&descAlignY=78&descSize=15&descColor=99ffcc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:0066ff&height=160&section=header&text=Bikram%20Sarkar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=IT%20Operations%20%C2%B7%20Infrastructure%20%C2%B7%20ML%20Engineering&descAlignY=78&descSize=15&descColor=99ffcc" width="200%"/>
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=900&color=00FF88&center=true&vCenter=true&width=560&lines=Terraform+%7C+Kubernetes+%7C+AWS+%7C+Python+%7C+Go;Scaling+infrastructure+by+day%2C+training+models+by+night;IaC+%C2%B7+Cloud-Native+%C2%B7+DevOps+%C2%B7+MLOps;Always+learning.+Always+shipping.)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-sarkarbikram90-0d1117?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/sarkarbikram90)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sarkarbikram90-0d1117?style=for-the-badge&logo=linkedin&logoColor=0066ff)](https://linkedin.com/in/sarkarbikram90)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sarkarbikram90-0d1117?style=for-the-badge&logo=linkedin&logoColor=0066ff)](https://www.linkedin.com/in/bikramsarkar/)
 
 </div>
 
