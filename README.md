@@ -1,148 +1,122 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:0066ff&height=160&section=header&text=Bikram%20Sarkar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=IT%20Operations%20%C2%B7%20Infrastructure%20%C2%B7%20ML%20Engineering&descAlignY=78&descSize=15&descColor=99ffcc" width="100%"/>
+
 <div align="center">
 
-```
-██████╗ ██╗██╗  ██╗██████╗  █████╗ ███╗   ███╗
-██╔══██╗██║██║ ██╔╝██╔══██╗██╔══██╗████╗ ████║
-██████╔╝██║█████╔╝ ██████╔╝███████║██╔████╔██║
-██╔══██╗██║██╔═██╗ ██╔══██╗██╔══██║██║╚██╔╝██║
-██████╔╝██║██║  ██╗██║  ██║██║  ██║██║ ╚═╝ ██║
-╚═════╝ ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=900&color=00FF88&center=true&vCenter=true&width=560&lines=Terraform+%7C+Kubernetes+%7C+AWS+%7C+Python+%7C+Go;Scaling+infrastructure+by+day%2C+training+models+by+night;IaC+%C2%B7+Cloud-Native+%C2%B7+DevOps+%C2%B7+MLOps;Always+learning.+Always+shipping.)](https://git.io/typing-svg)
 
-### IT Operations · Infrastructure · ML Engineering
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=DevOps+%7C+IaC+%7C+Terraform+%7C+Python+%7C+Go;Building+scalable+cloud-native+systems;Exploring+ML+%2B+large-scale+infrastructure;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
+[![GitHub](https://img.shields.io/badge/GitHub-sarkarbikram90-0d1117?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/sarkarbikram90)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sarkarbikram90-0d1117?style=for-the-badge&logo=linkedin&logoColor=0066ff)](https://linkedin.com/in/sarkarbikram90)
 
 </div>
 
+<br/>
+
 ---
 
-## `whoami`
+### `$ cat whoami.yaml`
 
 ```yaml
-name: Bikram Sarkar
-handle: sarkarbikram90
-pronouns: he/him
+name:       Bikram Sarkar
+handle:     sarkarbikram90
+location:   India
+pronouns:   he/him
 
-day_job:
-  role: IT Operations & Automation Engineer
-  focus:
-    - Infrastructure as Code (Terraform)
-    - Cloud-native environments
-    - DevOps practices & pipelines
+work:
+  title:    IT Operations & Automation Engineer
+  scope:
+    - Infrastructure as Code  →  Terraform
+    - Cloud-native systems    →  AWS, Kubernetes
+    - CI/CD & automation      →  GitHub Actions, Ansible
 
-night_mode:
-  focus: Machine Learning
-  goal: Build and ship ML models to production
-  interests:
+after_hours:
+  mode:     Machine Learning
+  mission:  Build and ship ML models to production
+  draws_to:
     - AI/ML × large-scale infrastructure
     - Scalable & distributed systems
-    - New technologies (always)
+    - Whatever's new and worth knowing
 ```
 
 ---
 
-## `tech_stack.sh`
+### `$ ls -1 tech/`
 
 <div align="center">
 
-**Infrastructure & Cloud**
-
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-**ML / AI**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-**CI/CD & Tooling**
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+| Layer | Tools |
+|---|---|
+| **Cloud & Infra** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+| **ML / AI** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **CI/CD & Ops** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) |
 
 </div>
 
 ---
 
-## `git log --stat`
+### `$ git log --oneline`
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarkarbikram90&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9)
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=sarkarbikram90&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=8b949e&ring_color=0066ff"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarkarbikram90&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=8b949e&langs_count=6"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarkarbikram90&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sarkarbikram90&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88)
+<img width="100%" src="https://streak-stats.demolab.com?user=sarkarbikram90&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=0066ff&currStreakLabel=00FF88&sideLabels=8b949e&dates=8b949e"/>
 
 </div>
 
 ---
 
-## `ls ./pinned_repos`
+### `$ ls ./repos`
 
 <!-- REPOS_START -->
-```
-📦 Synthetic-Data-Generator            ★ 0  🍴 0  [Python]
-   └─ Generate realistic synthetic data for testing, development, and analysis
-📦 Churn_Predict                       ★ 0  🍴 0  [Python]
-   └─ Customer Churn Prediction (MLflow + Streamlit)
-📦 ai-incident-investigator            ★ 0  🍴 0  [JavaScript]
-   └─ no description
-📦 hitl-incidents-triage-mvp           ★ 1  🍴 0  [JavaScript]
-   └─ no description
-📦 Shakespeare-like-Language-Model     ★ 0  🍴 0  [Python]
-   └─ A tiny model that produces Shakespeare-like grammar and style
-📦 HITL-POC                            ★ 1  🍴 0  [Python]
-   └─ HITL-POC
-```
+
+<div align="center">
+
+| Repo | Description | Stack |
+|---|---|---|
+| [**SecondGradient**](https://github.com/sarkarbikram90/SecondGradient) | Active — scalable architecture work | — |
+| [**hitl-incidents-triage-mvp**](https://github.com/sarkarbikram90/hitl-incidents-triage-mvp) | Human-in-the-loop incident triage | JavaScript |
+| [**ai-incident-investigator**](https://github.com/sarkarbikram90/ai-incident-investigator) | AI-powered incident investigation | JavaScript |
+| [**Synthetic-Data-Generator**](https://github.com/sarkarbikram90/Synthetic-Data-Generator) | Realistic synthetic data for testing & analysis | Python |
+| [**Churn_Predict**](https://github.com/sarkarbikram90/Churn_Predict) | Customer churn prediction — MLflow + Streamlit | Python |
+| [**Shakespeare-like-Language-Model**](https://github.com/sarkarbikram90/Shakespeare-like-Language-Model) | Tiny LM with Shakespearean style | Python |
+
+</div>
+
 <!-- REPOS_END -->
 
 ---
 
-## `tail -f activity.log`
+### `$ tail -f activity.log`
 
 <!-- ACTIVITY_START -->
-| | Activity | Date |
-|---|---|---|
-| 📦 | Pushed to `SecondGradient` | `2026-04-10` |
-| 🔀 | Merged PR in `SecondGradient` | `2026-04-10` |
-| 🌿 | Created `feature/architecture-scalable` | `2026-04-10` |
-| 📦 | Pushed to `hitl-incidents-triage-mvp` | `2026-04-03` |
-| 🍴 | Forked `claude-code` | `2026-04-02` |
+
+```
+2026-04-10  📦  pushed        SecondGradient
+2026-04-10  🔀  merged PR     SecondGradient
+2026-04-10  🌿  branched      feature/architecture-scalable
+2026-04-03  📦  pushed        hitl-incidents-triage-mvp
+2026-04-02  🍴  forked        claude-code
+```
+
 <!-- ACTIVITY_END -->
 
 ---
 
-## `ping me`
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-sarkarbikram90-181717?style=flat-square&logo=github)](https://github.com/sarkarbikram90)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/sarkarbikram90)
+*Scaling systems by day. Training models by night.*
+*Always up for a good engineering conversation.*
 
-*Scaling systems by day. Training models by night. Always up for a good engineering chat.*
-
-</div>
-
----
-
-<div align="center">
+<br/>
 
 <!-- TIMESTAMP_START -->
-*Last updated: `2026-04-14 02:40 UTC`*
+<sub>Last synced · <code>2026-04-14 02:40 UTC</code></sub>
 <!-- TIMESTAMP_END -->
 
-<sub>⚡ built with curiosity · powered by coffee · deployed to production</sub>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,100:00ff88&height=80&section=footer" width="100%"/>
+
 </div>
