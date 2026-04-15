@@ -70,20 +70,20 @@ after_hours:
 ### `$ ls ./repos`
 
 <!-- REPOS_START -->
-
-<div align="center">
-
-| Repo | Description | Stack |
-|---|---|---|
-| [**SecondGradient**](https://github.com/sarkarbikram90/SecondGradient) | Active — scalable architecture work | — |
-| [**hitl-incidents-triage-mvp**](https://github.com/sarkarbikram90/hitl-incidents-triage-mvp) | Human-in-the-loop incident triage | JavaScript |
-| [**ai-incident-investigator**](https://github.com/sarkarbikram90/ai-incident-investigator) | AI-powered incident investigation | JavaScript |
-| [**Synthetic-Data-Generator**](https://github.com/sarkarbikram90/Synthetic-Data-Generator) | Realistic synthetic data for testing & analysis | Python |
-| [**Churn_Predict**](https://github.com/sarkarbikram90/Churn_Predict) | Customer churn prediction — MLflow + Streamlit | Python |
-| [**Shakespeare-like-Language-Model**](https://github.com/sarkarbikram90/Shakespeare-like-Language-Model) | Tiny LM with Shakespearean style | Python |
-
-</div>
-
+```
+📦 Synthetic-Data-Generator            ★ 0  🍴 0  [Python]
+   └─ Generate realistic synthetic data for testing, development, and analysis
+📦 Churn_Predict                       ★ 0  🍴 0  [Python]
+   └─ Customer Churn Prediction (MLflow + Streamlit)
+📦 ai-incident-investigator            ★ 0  🍴 0  [JavaScript]
+   └─ no description
+📦 hitl-incidents-triage-mvp           ★ 1  🍴 0  [JavaScript]
+   └─ no description
+📦 Shakespeare-like-Language-Model     ★ 0  🍴 0  [Python]
+   └─ A tiny model that produces Shakespeare-like grammar and style
+📦 HITL-POC                            ★ 1  🍴 0  [Python]
+   └─ HITL-POC
+```
 <!-- REPOS_END -->
 
 ---
@@ -91,15 +91,13 @@ after_hours:
 ### `$ tail -f activity.log`
 
 <!-- ACTIVITY_START -->
-
-```
-2026-04-10  📦  pushed        SecondGradient
-2026-04-10  🔀  merged PR     SecondGradient
-2026-04-10  🌿  branched      feature/architecture-scalable
-2026-04-03  📦  pushed        hitl-incidents-triage-mvp
-2026-04-02  🍴  forked        claude-code
-```
-
+| | Activity | Date |
+|---|---|---|
+| 📦 | Pushed to `SecondGradient` | `2026-04-14` |
+| 🔀 | Merged PR in `SecondGradient` | `2026-04-14` |
+| 📦 | Pushed to `sarkarbikram90` | `2026-04-14` |
+| 🍴 | Forked `memento` | `2026-04-14` |
+| ⭐ | Starred `memento` | `2026-04-14` |
 <!-- ACTIVITY_END -->
 
 ---
@@ -112,7 +110,7 @@ after_hours:
 <br/>
 
 <!-- TIMESTAMP_START -->
-<sub>Last synced · <code>2026-04-14 02:40 UTC</code></sub>
+*Last updated: `2026-04-15 02:37 UTC`*
 <!-- TIMESTAMP_END -->
 
 <br/>
