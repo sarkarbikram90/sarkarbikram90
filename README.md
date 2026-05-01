@@ -77,12 +77,10 @@ after_hours:
    └─ Customer Churn Prediction (MLflow + Streamlit)
 📦 ai-incident-investigator            ★ 0  🍴 0  [JavaScript]
    └─ no description
-📦 hitl-incidents-triage-mvp           ★ 1  🍴 0  [JavaScript]
-   └─ no description
 📦 Shakespeare-like-Language-Model     ★ 0  🍴 0  [Python]
    └─ A tiny model that produces Shakespeare-like grammar and style
-📦 HITL-POC                            ★ 1  🍴 0  [Python]
-   └─ HITL-POC
+📦 FlowForge                           ★ 0  🍴 0  [Rust]
+   └─ FlowForge — a lightweight distributed workflow scheduler
 ```
 <!-- REPOS_END -->
 
@@ -93,11 +91,11 @@ after_hours:
 <!-- ACTIVITY_START -->
 | | Activity | Date |
 |---|---|---|
+| 📦 | Pushed to `FlowForge` | `2026-04-30` |
+| 🚀 | Released `v0.1.0-beta` in `FlowForge` | `2026-04-30` |
+| 🌿 | Created `main` | `2026-04-30` |
 | ⭐ | Starred `firecracker` | `2026-04-28` |
 | ⭐ | Starred `RustTraining` | `2026-04-28` |
-| 📦 | Pushed to `Agentic_Swarm` | `2026-04-22` |
-| 🌿 | Created `main` | `2026-04-22` |
-| 🍴 | Forked `postgres` | `2026-04-21` |
 <!-- ACTIVITY_END -->
 
 ---
@@ -110,7 +108,7 @@ after_hours:
 <br/>
 
 <!-- TIMESTAMP_START -->
-*Last updated: `2026-04-30 03:21 UTC`*
+*Last updated: `2026-05-01 03:31 UTC`*
 <!-- TIMESTAMP_END -->
 
 <br/>
