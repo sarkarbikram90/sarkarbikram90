@@ -93,11 +93,11 @@ after_hours:
 <!-- ACTIVITY_START -->
 | | Activity | Date |
 |---|---|---|
+| ⭐ | Starred `ai-cookbook` | `2026-05-18` |
 | ⭐ | Starred `evidently` | `2026-05-15` |
 | 🍴 | Forked `iggy` | `2026-05-15` |
 | ⭐ | Starred `iggy` | `2026-05-15` |
 | 📦 | Pushed to `Synthetic-Data-Generator` | `2026-05-14` |
-| ⭐ | Starred `serde` | `2026-05-12` |
 <!-- ACTIVITY_END -->
 
 ---
@@ -110,7 +110,7 @@ after_hours:
 <br/>
 
 <!-- TIMESTAMP_START -->
-*Last updated: `2026-05-18 03:47 UTC`*
+*Last updated: `2026-05-19 03:39 UTC`*
 <!-- TIMESTAMP_END -->
 
 <br/>
