@@ -93,11 +93,11 @@ after_hours:
 <!-- ACTIVITY_START -->
 | | Activity | Date |
 |---|---|---|
+| ⭐ | Starred `rust-for-critical-space-systems` | `2026-06-14` |
 | ⭐ | Starred `graphrag` | `2026-06-11` |
 | 📦 | Pushed to `Obsygnal` | `2026-06-10` |
 | ⭐ | Starred `coreutils` | `2026-06-09` |
 | 🍴 | Forked `llm_engineering` | `2026-06-03` |
-| ⭐ | Starred `llm_engineering` | `2026-06-03` |
 <!-- ACTIVITY_END -->
 
 ---
@@ -110,7 +110,7 @@ after_hours:
 <br/>
 
 <!-- TIMESTAMP_START -->
-*Last updated: `2026-06-13 03:52 UTC`*
+*Last updated: `2026-06-14 04:11 UTC`*
 <!-- TIMESTAMP_END -->
 
 <br/>
