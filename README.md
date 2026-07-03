@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Bikram Sarkar
+# 👋 Hi, I'm Bikram
 
 ### Infrastructure Engineer • Rust Developer • AI Infrastructure Builder
 
