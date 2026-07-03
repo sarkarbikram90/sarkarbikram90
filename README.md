@@ -78,18 +78,6 @@ Distributed Workflow Scheduler in Rust.
 
 ---
 
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sarkarbikram90&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarkarbikram90&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 🔥 Contribution Statistics
 
 <div align="center">
