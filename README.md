@@ -1,120 +1,386 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:0066ff&height=160&section=header&text=Bikram%20Sarkar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=IT%20Operations%20%C2%B7%20Infrastructure%20%C2%B7%20ML%20Engineering&descAlignY=78&descSize=15&descColor=99ffcc" width="300%"/>
+````markdown
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Bikram%20Sarkar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20AI%20Infrastructure%20•%20Observability%20Platforms%20•%20Space%20Software&descAlignY=62&descSize=18" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=900&color=00FF88&center=true&vCenter=true&width=560&lines=Terraform+%7C+Kubernetes+%7C+AWS+%7C+Python+%7C+Go;Scaling+infrastructure+by+day%2C+training+models+by+night;IaC+%C2%B7+Cloud-Native+%C2%B7+DevOps+%C2%B7+MLOps;Always+learning.+Always+shipping.)](https://git.io/typing-svg)
+# 👋 Hello, I'm Bikram Sarkar
 
-[![GitHub](https://img.shields.io/badge/GitHub-sarkarbikram90-0d1117?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/sarkarbikram90)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bikramsarkar-0d1117?style=for-the-badge&logo=linkedin&logoColor=0066ff)](https://www.linkedin.com/in/bikramsarkar/)
+### Senior Infrastructure Engineer • Rust Enthusiast • AI Systems Builder • Open Source
+
+> **Building software at the intersection of Infrastructure Engineering, Distributed Systems, AI, and Space Technology.**
+
+My mission is simple:
+
+**Build reliable software that powers the next generation of AI infrastructure and space operations.**
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-sarkarbikram90-181717?style=for-the-badge&logo=github)](https://github.com/sarkarbikram90)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bikram%20Sarkar-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bikramsarkar)
+
+![](https://komarev.com/ghpvc/?username=sarkarbikram90&style=for-the-badge)
 
 </div>
 
-<br/>
+---
+
+# 🚀 Mission
+
+> **Engineering reliable systems for AI, Cloud and Space.**
+
+I'm passionate about building systems that are:
+
+- Reliable
+- Observable
+- Distributed
+- Automated
+- Scalable
+
+Current focus:
+
+- 🤖 AI Infrastructure
+- ⚡ Distributed Systems
+- 📊 Observability
+- ☁ Cloud Native Platforms
+- 🛰 Space Operations
+- ❤️ Open Source
 
 ---
 
-### `$ cat whoami.yaml`
+# 📜 mission.toml
 
-```yaml
-name:       Bikram Sarkar
-handle:     sarkarbikram90
-location:   India
-pronouns:   he/him
+```toml
+[identity]
 
-work:
-  title:    IT Operations & Automation Engineer
-  scope:
-    - Infrastructure as Code  →  Terraform
-    - Cloud-native systems    →  AWS, Kubernetes
-    - CI/CD & automation      →  GitHub Actions, Ansible
+name = "Bikram Sarkar"
 
-after_hours:
-  mode:     Machine Learning
-  mission:  Build and ship ML models to production
-  draws_to:
-    - AI/ML × large-scale infrastructure
-    - Scalable & distributed systems
-    - Whatever's new and worth knowing
+role = "Senior Infrastructure Engineer"
+
+mission = """
+Build software powering
+AI Infrastructure,
+Distributed Systems,
+and Space Operations.
+"""
+
+currently_building = [
+  "OrbitLogs",
+  "Obsygnal",
+  "FlowForge"
+]
+
+currently_learning = [
+  "Rust",
+  "Distributed Systems",
+  "Satellite Communications",
+  "ADCS",
+  "Machine Learning"
+]
 ```
 
 ---
 
-### `$ ls -1 tech/`
+# 🚀 Flagship Projects
 
-<div align="center">
+## 🛰 OrbitLogs
 
-| Layer | Tools |
-|---|---|
-| **Cloud & Infra** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
-| **ML / AI** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
-| **CI/CD & Ops** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) |
+### Open Source Mission Operations Platform
 
-</div>
+Building a modern satellite operations platform powered by Rust.
 
----
+**Tech**
 
-### `$ git log --oneline`
+- Rust
+- Kafka
+- PostgreSQL
+- TimescaleDB
+- Prometheus
+- Grafana
+- Docker
 
-<div align="center">
+Current Progress
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=sarkarbikram90&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=8b949e&ring_color=0066ff"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarkarbikram90&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=8b949e&langs_count=6"/>
+```text
+Telemetry Simulator        ██████████████░░░ 70%
 
-<img width="100%" src="https://streak-stats.demolab.com?user=sarkarbikram90&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=0066ff&currStreakLabel=00FF88&sideLabels=8b949e&dates=8b949e"/>
+Rust Collector             ██████████░░░░░░ 55%
 
-</div>
+Mission Dashboard          ███████░░░░░░░░░ 40%
 
----
+Alert Engine               █████░░░░░░░░░░░ 30%
 
-### `$ ls ./repos`
-
-<!-- REPOS_START -->
+AI Anomaly Detection       ███░░░░░░░░░░░░░ 20%
 ```
-📦 Synthetic-Data-Generator            ★ 0  🍴 0  [Python]
-   └─ Generate realistic synthetic data for testing, development, and analysis
-📦 Churn_Predict                       ★ 0  🍴 0  [Python]
-   └─ Customer Churn Prediction (MLflow + Streamlit)
-📦 ai-incident-investigator            ★ 0  🍴 0  [JavaScript]
-   └─ no description
-📦 FlowForge                           ★ 0  🍴 0  [Rust]
-   └─ FlowForge — a lightweight distributed workflow scheduler
-📦 Obsygnal-Pulse                      ★ 0  🍴 0  [Go]
-   └─ AI Infrastructure Efficiency Platform — Detect wasted GPU compute, optimize training workloads, save money.
-📦 Obsygnal                            ★ 1  🍴 0  [HTML]
-   └─ Transforming Enterprise Knowledge into Intelligence
-```
-<!-- REPOS_END -->
 
 ---
 
-### `$ tail -f activity.log`
+## ⚡ Obsygnal
 
-<!-- ACTIVITY_START -->
-| | Activity | Date |
-|---|---|---|
-| 🍴 | Forked `rust-for-critical-space-systems` | `2026-06-14` |
-| ⭐ | Starred `rust-for-critical-space-systems` | `2026-06-14` |
-| ⭐ | Starred `graphrag` | `2026-06-11` |
-| 📦 | Pushed to `Obsygnal` | `2026-06-10` |
-| ⭐ | Starred `coreutils` | `2026-06-09` |
-<!-- ACTIVITY_END -->
+### AI Infrastructure Intelligence Platform
+
+Helping engineering teams operate AI systems reliably.
+
+Focus Areas
+
+- GPU Optimization
+- LLM Monitoring
+- AI Observability
+- RAG Evaluation
+- Infrastructure Intelligence
+- Cost Optimization
+
+---
+
+## ⚙️ FlowForge
+
+### Distributed Workflow Scheduler
+
+A lightweight workflow orchestration engine built with Rust.
+
+Goals
+
+- Async Execution
+- Fault Tolerance
+- Distributed Scheduling
+- High Performance
+- Horizontal Scalability
+
+---
+
+# 🧠 Engineering Domains
+
+| Domain | Technologies |
+|---------|--------------|
+| 🦀 Systems Programming | Rust • Go |
+| ☁ Cloud Infrastructure | AWS • Kubernetes • Docker |
+| 🤖 AI Engineering | Python • PyTorch • Scikit-learn |
+| 📊 Observability | Grafana • Prometheus • OpenTelemetry |
+| ⚙ Infrastructure Automation | Terraform • GitHub Actions |
+| 🛰 Space Systems | Telemetry • Ground Systems • Mission Operations |
+| 🗄 Databases | PostgreSQL • TimescaleDB • Redis |
+
+---
+
+# 📚 Current Learning
+
+```text
+██████████████████████░ Rust
+
+████████████████████░░ Distributed Systems
+
+██████████████████░░░ AI Infrastructure
+
+████████████████░░░░ Observability
+
+██████████████░░░░░ Satellite Systems
+
+████████████░░░░░░ Machine Learning
+
+██████████░░░░░░░░ ADCS
+
+████████░░░░░░░░░░ Orbital Mechanics
+```
+
+---
+
+# 🗺 Engineering Roadmap
+
+## 2026
+
+- ✅ Build OrbitLogs MVP
+- ✅ Build FlowForge
+- ✅ Launch Obsygnal
+- 🔲 Publish Technical Blogs
+- 🔲 Contribute to Rust Open Source
+- 🔲 Learn Satellite Flight Software
+- 🔲 Build AI Infrastructure Products
+- 🔲 Become a recognized OSS contributor
+
+---
+
+# 💡 Engineering Principles
+
+```text
+Build before optimizing.
+
+Automate repetitive work.
+
+Measure before making assumptions.
+
+Reliability is a feature.
+
+Prefer simplicity.
+
+Think in systems.
+
+Documentation scales engineering.
+
+Solve real-world problems.
+```
+
+---
+
+# 🏗 Architecture Interests
+
+```mermaid
+graph TD
+
+A[AI Systems]
+
+B[Distributed Systems]
+
+C[Cloud Infrastructure]
+
+D[Observability]
+
+E[Space Operations]
+
+F[OrbitLogs]
+
+G[Obsygnal]
+
+H[FlowForge]
+
+A --> D
+B --> D
+C --> D
+D --> E
+F --> E
+G --> A
+H --> B
+```
+
+---
+
+# ⚙️ Tech Stack
+
+## Languages
+
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+
+---
+
+## Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform)
+
+---
+
+## Observability
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
+
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge)
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sarkarbikram90&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarkarbikram90&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img width="100%" src="https://streak-stats.demolab.com?user=sarkarbikram90&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+**This widget automatically displays:**
+
+- ✅ Total Contributions
+- ✅ Current Streak
+- ✅ Longest Streak
+
+---
+
+## 📊 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sarkarbikram90&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 GitHub Summary
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarkarbikram90&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sarkarbikram90&theme=tokyonight&no-frame=true&margin-w=12&row=2&column=4"/>
+
+</div>
+
+---
+
+# 🌍 Building in Public
+
+I enjoy sharing my learning journey around:
+
+- 🦀 Rust
+- 🤖 AI Infrastructure
+- ⚡ Distributed Systems
+- ☁ Cloud Engineering
+- 📊 Observability
+- 🛰 Space Technology
+- 🛠 System Design
+- ❤️ Open Source
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in conversations about:
+
+- Distributed Systems
+- AI Infrastructure
+- Rust
+- Observability
+- Cloud Native Engineering
+- Satellite Software
+- Open Source
 
 ---
 
 <div align="center">
 
-*Scaling systems by day. Training models by night.*
-*Always up for a good engineering conversation.*
+## ⭐ Building software that powers the next generation of AI and Space Infrastructure.
 
-<br/>
+If you enjoy my work or find my projects useful, consider giving them a ⭐ and following my journey.
 
-<!-- TIMESTAMP_START -->
-*Last updated: `2026-07-03 03:20 UTC`*
-<!-- TIMESTAMP_END -->
+<br>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,100:00ff88&height=80&section=footer" width="200%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=120&section=footer"/>
 
 </div>
+````
