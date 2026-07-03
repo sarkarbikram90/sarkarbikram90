@@ -71,7 +71,7 @@ Distributed Workflow Scheduler in Rust.
 | Domain | Stack |
 |---------|-------|
 | Systems | Rust, Go |
-| Cloud | AWS, Kubernetes, Docker |
+| Cloud | AWS, GCP, Kubernetes, Docker |
 | AI | Python, PyTorch |
 | Observability | Prometheus, Grafana, OpenTelemetry |
 | Databases | PostgreSQL, TimescaleDB, Redis |
@@ -98,11 +98,6 @@ Distributed Workflow Scheduler in Rust.
 
 </div>
 
-This card shows:
-- Current streak
-- Longest streak
-- Total contributions
-
 ---
 
 # 📈 Contribution Graph
@@ -112,18 +107,6 @@ This card shows:
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sarkarbikram90&theme=tokyo-night"/>
 
 </div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sarkarbikram90&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
 
 # 🌱 Currently Learning
 
