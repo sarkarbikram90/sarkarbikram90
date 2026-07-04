@@ -8,7 +8,7 @@
 
 # 👋 Hi, I'm Bikram
 
-### Infrastructure Engineer • Rust Developer • AI Infrastructure Builder
+### Infrastructure Engineer • Rust Developer • AI • Space • Satellite
 
 **Building software at the intersection of Cloud Infrastructure, Distributed Systems, AI, and Space Technology.**
 
