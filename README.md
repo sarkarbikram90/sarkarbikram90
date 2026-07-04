@@ -100,8 +100,11 @@ Distributed Workflow Scheduler in Rust.
 # 🌱 Currently Learning
 
 - Advanced Rust
+- Telemetry
+- Observability
 - Distributed Systems
 - AI Infrastructure
+- Deployment
 - Satellite Communications
 - ADCS
 - Orbital Mechanics
