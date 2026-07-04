@@ -12,7 +12,6 @@
 
 **Building software at the intersection of Cloud Infrastructure, Distributed Systems, AI, and Space Technology.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-sarkarbikram90-181717?style=for-the-badge&logo=github)](https://github.com/sarkarbikram90)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bikram%20Sarkar-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bikramsarkar)
 [![Medium](https://img.shields.io/badge/Medium-Bikram%20Sarkar-12100E?style=for-the-badge&logo=medium)](https://medium.com/@sarkarbikram90)
 
