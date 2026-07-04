@@ -79,7 +79,7 @@ Distributed Workflow Scheduler in Rust.
 
 ---
 
-# 🔥 Contribution Statistics
+# 🔥
 
 <div align="center">
 
@@ -89,7 +89,7 @@ Distributed Workflow Scheduler in Rust.
 
 ---
 
-# 📈 Contribution Graph
+# 📈
 
 <div align="center">
 
