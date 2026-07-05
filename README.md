@@ -78,9 +78,6 @@ Distributed Workflow Scheduler in Rust.
 | Databases | PostgreSQL, TimescaleDB, Redis |
 
 ---
-
-# 🔥
-
 <div align="center">
 
 <img width="100%" src="https://streak-stats.demolab.com?user=sarkarbikram90&theme=tokyonight&hide_border=true"/>
@@ -88,9 +85,6 @@ Distributed Workflow Scheduler in Rust.
 </div>
 
 ---
-
-# 📈
-
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sarkarbikram90&theme=tokyo-night"/>
