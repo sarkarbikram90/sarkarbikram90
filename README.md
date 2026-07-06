@@ -100,7 +100,7 @@ Distributed Workflow Scheduler in Rust.
 - AI Infrastructure
 - Deployment
 - Satellite Communications
-- ADCS
+- Attitude Determination and Control System (ADCS)
 - Orbital Mechanics
 - Satellite Conjunction Assessment
 
