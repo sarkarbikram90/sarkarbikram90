@@ -103,6 +103,7 @@ Distributed Workflow Scheduler in Rust.
 - Attitude Determination and Control System (ADCS)
 - Orbital Mechanics
 - Satellite Conjunction Assessment
+- Anomaly Detection
 
 ---
 
