@@ -24,7 +24,7 @@
 
 # 🚀 Mission
 
-> Engineering reliable software for AI Infrastructure, Observability, and Space Operations.
+> Engineering reliable and scalable software for AI Infrastructure, Observability, and Space Operations.
 
 Current focus:
 
