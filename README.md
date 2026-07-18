@@ -104,6 +104,7 @@ Distributed Workflow Scheduler in Rust.
 - Orbital Mechanics
 - Satellite Conjunction Assessment
 - Anomaly Detection
+- Guidance, Navigation and Control (GN&C)
 
 ---
 
