@@ -105,6 +105,10 @@ Distributed Workflow Scheduler in Rust.
 - Satellite Conjunction Assessment
 - Anomaly Detection
 - Guidance, Navigation and Control (GN&C)
+- Telecommand & Telemetry
+- Flight Dynamics
+- Thrust Vector
+- Control Theory
 
 ---
 
