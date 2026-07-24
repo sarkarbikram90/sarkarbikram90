@@ -14,10 +14,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bikram%20Sarkar-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bikramsarkar)
 [![Medium](https://img.shields.io/badge/Medium-Bikram%20Sarkar-12100E?style=for-the-badge&logo=medium)](https://medium.com/@sarkarbikram90)
-
-
-![](https://komarev.com/ghpvc/?username=sarkarbikram90&style=for-the-badge)
-
 </div>
 
 ---
