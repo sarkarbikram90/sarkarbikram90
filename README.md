@@ -70,8 +70,9 @@ Distributed Workflow Scheduler in Rust.
 | Systems | Rust, Go |
 | Cloud | AWS, GCP, Kubernetes, Docker |
 | AI | Python, PyTorch |
-| Observability | Prometheus, Grafana, Dynatrace, OpenTelemetry |
+| Observability | Prometheus, Grafana, Dynatrace, OpenTelemetry, eBPF |
 | Databases | PostgreSQL, TimescaleDB, Redis |
+| OS | Linux, Windows |
 
 ---
 <div align="center">
