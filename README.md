@@ -97,15 +97,11 @@ Distributed Workflow Scheduler in Rust.
 - AI Infrastructure
 - Deployment
 - Satellite Communications
-- Attitude Determination and Control System (ADCS)
 - Orbital Mechanics
 - Satellite Conjunction Assessment
 - Anomaly Detection
 - Guidance, Navigation and Control (GN&C)
-- Telecommand & Telemetry
-- Flight Dynamics
-- Thrust Vector
-- Control Theory
+- Telemetry, Tracking, and Command (TT&C)
 
 ---
 
