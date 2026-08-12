@@ -97,10 +97,7 @@ Distributed Workflow Scheduler in Rust.
 - AI Infrastructure
 - Deployment
 - Satellite Communications
-- Orbital Mechanics
-- Satellite Conjunction Assessment
 - Anomaly Detection
-- Guidance, Navigation and Control (GN&C)
 - Telemetry, Tracking, and Command (TT&C)
 
 ---
