@@ -8,9 +8,9 @@
 
 # 👋 Hi, I'm Bikram
 
-### Infrastructure Engineer • Rust Developer • Scalable Deployment • Infrastructure and Application Observability • Satellite Telemetry
+### Infrastructure Engineer • Developer • Scalable Deployment • Infrastructure and Application Observability • Telemetry
 
-**Building software at the intersection of Cloud Infrastructure, Distributed Systems, AI, and Space Technology.**
+**Building software at the intersection of Cloud Infrastructure, Distributed Systems, and AI Technology.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bikram%20Sarkar-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bikramsarkar)
 [![Medium](https://img.shields.io/badge/Medium-Bikram%20Sarkar-12100E?style=for-the-badge&logo=medium)](https://medium.com/@sarkarbikram90)
@@ -20,7 +20,7 @@
 
 # 🚀 Mission
 
-> Engineering reliable and scalable software for AI Infrastructure, Observability, and Space Operations.
+> Engineering reliable and scalable software for AI Infrastructure, Observability, and Operations.
 
 Current focus:
 
@@ -28,7 +28,6 @@ Current focus:
 - 🦀 Rust
 - ⚡ Distributed Systems
 - 📊 Observability
-- 🛰️ Satellite Operations
 - ❤️ Open Source
 
 ---
@@ -43,8 +42,8 @@ role = "Infrastructure Engineer"
 
 currently_building = [
   "OrbitLogs",
-  "Obsygnal",
-  "FlowForge"
+  "Barnacles",
+  "AIrun-profiler"
 ]
 ```
 
@@ -52,14 +51,14 @@ currently_building = [
 
 # 🚀 Flagship Projects
 
-## 🛰 OrbitLogs
-Mission Operations Platform built with Rust.
+## OrbitLogs
+Satellite Mission Operations Platform built with Rust.
 
-## ⚡ Obsygnal
-AI Infrastructure Intelligence Platform.
+## Barnacles
+Observability that survives when the network doesn't.
 
-## ⚙️ FlowForge
-Distributed Workflow Scheduler in Rust.
+## Airun-profiler
+AI infrastructure profiler that connects AI workload telemetry to physical infrastructure behavior and economics.
 
 ---
 
