@@ -2,7 +2,7 @@
 <!-- GitHub Profile README -->
 <!-- ========================================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Bikram%20Sarkar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Building%20AI%20Infrastructure%20•%20Observability%20Platforms%20•%20Distributed%20Systems&descAlignY=62&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Bikram%20Sarkar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Scalabale%20AI%20Infrastructure%20•%20Observability%20Platforms%20•%20Distributed%20Systems&descAlignY=62&descSize=18"/>
 
 <div align="center">
 
